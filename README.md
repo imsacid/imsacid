@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/imsacid" target="blank"><img src="https://img.shields.io/twitter/follow/imsacid?logo=twitter&style=for-the-badge" alt="imsacid" /></a> </p>
 
+- 🔭 I’m currently working on **Freelancer**
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **MERN Stack**
